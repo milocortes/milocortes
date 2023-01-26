@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=milocortes&show_icons=true&theme=ADD_THEME_HERE" width="400">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milocortes&show_icons=true&count_private=true&line_height=40&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milocortes&cache_seconds=1800&hide=python&theme=github_dark)
 
 **milocortes/milocortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
