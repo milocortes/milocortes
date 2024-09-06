@@ -1,5 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milocortes&show_icons=true&count_private=true&line_height=40&theme=github_dark)
 <h1 align="center">Hi, I'm Hermilo! 👋 </h1>
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
