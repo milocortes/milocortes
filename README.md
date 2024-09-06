@@ -2,11 +2,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 45%;">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milocortes&show_icons=true&count_private=true&line_height=40&theme=github_dark)
-    </div>
-
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
