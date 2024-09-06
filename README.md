@@ -13,7 +13,7 @@
                 
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I am interested in High Performance Computing, Virtualizatión technologies, Complex System Modelling and, recently, Embedded Systems on ARM, RISC-V architectures. 
+            I am interested in High Performance Computing, Virtualization technologies, Complex System Modelling and, recently, Embedded Systems on ARM, RISC-V architectures. 
         </p>
 
 </div>
