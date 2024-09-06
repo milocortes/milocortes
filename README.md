@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hermilo! 👋 </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=milocortes&show_icons=true&count_private=true&line_height=40&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=milocortes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=milocortes&theme=vue-dark&hide_border=true">
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
